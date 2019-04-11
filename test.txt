@@ -1,2 +1,1 @@
-Test is successful!
-wow,it is so wonderful!
+this is simple test!
